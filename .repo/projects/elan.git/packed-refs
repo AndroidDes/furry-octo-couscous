@@ -1,0 +1,27 @@
+# pack-refs with: peeled fully-peeled 
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/cm-10.1
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/cm-10.2
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/cm-11.0
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/cm-12.0
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/cm-12.1
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/cm-13.0
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/cm-14.1
+04d076bf9e49a1cb7179665cef65cfa87e4660e3 refs/remotes/TheMuppets/jellybean
+04d076bf9e49a1cb7179665cef65cfa87e4660e3 refs/remotes/TheMuppets/jellybean-stable
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-11.0
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-11.0-XNF9X
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-11.0-XNG2S
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-11.0-XNG3C
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-12.0-YNG1I
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-12.0-YNG1T
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-12.0-YNG1TA
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-12.0-YNG3C
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-12.0-YNG4N
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-12.1-YOG3C
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-12.1-YOG4P
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-12.1-YOG7D
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-13.0-ZNH0E
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-13.0-ZNH2K
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/remotes/TheMuppets/stable/cm-13.0-ZNH5Y
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/tags/cm-11.0-XNPH05Q-bacon-5229c4ef56
+b82af8e602555b7e12ff2f3cadde339bada782ec refs/tags/cm-11.0-XNPH25R-bacon-d22b777afa

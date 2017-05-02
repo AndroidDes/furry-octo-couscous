@@ -1,0 +1,20 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "remote.TheMuppets.fetch": [
+    "+refs/heads/*:refs/remotes/TheMuppets/*"
+  ], 
+  "remote.TheMuppets.url": [
+    "https://github.com/TheMuppets/proprietary_vendor_nxp"
+  ], 
+  "remote.TheMuppets.projectname": [
+    "TheMuppets/proprietary_vendor_nxp"
+  ], 
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ]
+}
